@@ -14,6 +14,7 @@ insertionSort.o:
 sort1.o: 
 sort2.o: 
 
+
 #clean up procedure		
 clean:
 
